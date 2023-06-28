@@ -1,0 +1,3 @@
+https://adres.dysonvalidator.com
+greeting_data = get_greeting()["result"]["storage"]["data"]
+    return [greeting_data.encode()]
